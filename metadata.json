@@ -1,0 +1,5 @@
+{
+  "name": "Student Course Registration",
+  "description": "A full-stack web application for students to register, log in, view available courses, and enroll online. Built with React, Express, and Firebase.",
+  "requestFramePermissions": []
+}
